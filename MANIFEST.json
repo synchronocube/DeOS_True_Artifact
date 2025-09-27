@@ -1,0 +1,19 @@
+{
+  "title": "DeOS_True_Artifact \u2014 Lighthouse Canon (Genesis / 21e8)",
+  "author": "synchronocube (X: @synchronocube)",
+  "created_utc": "2025-09-27T17:51:52Z",
+  "cid": "bafybeibr6735o3hcjdvic4jbmodezkjppviphnv5gjv5y74q2flqmviw6m",
+  "filename": "888.jpg",
+  "bytes": 276051,
+  "sha256": "72706d9b0aafb5d2fe295f4db77d98fabed9552870511ce8e4559525aebae015",
+  "badge": {
+    "g2701": 1100,
+    "g_mod_37": 27,
+    "g_mod_73": 5
+  },
+  "gateways": [
+    "https://ipfs.io/ipfs/bafybeibr6735o3hcjdvic4jbmodezkjppviphnv5gjv5y74q2flqmviw6m",
+    "https://cloudflare-ipfs.com/ipfs/bafybeibr6735o3hcjdvic4jbmodezkjppviphnv5gjv5y74q2flqmviw6m"
+  ],
+  "notes": "Badge = SHA256(image bytes) mod 2701; 2701 = 37\u00d773. Symbolism atop SHA\u2011256."
+}
