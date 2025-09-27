@@ -1,0 +1,15 @@
+{
+  "type": "genesis_receipt",
+  "version": 1,
+  "created_utc": "2025-09-27T17:51:52Z",
+  "issuer": "synchronocube (X: @synchronocube)",
+  "statement": "Genesis receipt for DeOS True Artifact \u2014 Lighthouse Canon (Genesis / 21e8).",
+  "cid": "bafybeibr6735o3hcjdvic4jbmodezkjppviphnv5gjv5y74q2flqmviw6m",
+  "sha256": "72706d9b0aafb5d2fe295f4db77d98fabed9552870511ce8e4559525aebae015",
+  "badge": {
+    "g2701": 1100,
+    "g_mod_37": 27,
+    "g_mod_73": 5
+  },
+  "filename_hint": "888.jpg"
+}
